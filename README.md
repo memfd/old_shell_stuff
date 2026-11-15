@@ -5,7 +5,7 @@ Instruction:
 
 1. Cloning repository:
 
-	```git clone https://github.com/memfd/open_wrt_scripts```
+	```git clone https://github.com/memfd/old_shell_stuff```
 	
 2. Set the user-friendly parameters in the get_certs.sh file. For example:
 	
@@ -16,7 +16,7 @@ Instruction:
 
 3. Change the rights and run:
 	
-	```cd open_wrt_scripts/get_certs```
+	```cd old_shell_stuff/get_certs```
 	
 	```chmod +x *.sh```
 	
